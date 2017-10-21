@@ -2,4 +2,4 @@ theme: minima
 title: Talia Cohen
 
 header_pages:
- - about.html
+ - about.md
